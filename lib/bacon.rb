@@ -5,6 +5,7 @@ class Bacon
 		!expired
 	end
 
+
     def expired!
 	self.expired = true
 	end
